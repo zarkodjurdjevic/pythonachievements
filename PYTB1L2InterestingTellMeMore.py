@@ -9,7 +9,12 @@ print("------------------------------------------------------------")
 print("mooi antwoord")
 print("------------------------------------------------------------")
 print("wat is de reden dat je specifiek voor het MA hebt gekozen?")
-antwoord = input()
+ja = input()
 print("------------------------------------------------------------")
 print("Niceeeee")
+
+print("------------------------------------------------------------")
+print("Dus" + " " + naam + " " + "je bent" + " " + leeftijd + " " + "en jouw antwoord over het MA was" + " " + antwoord)
+
+
 
